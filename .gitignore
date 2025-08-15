@@ -1,0 +1,9 @@
+train/face_video_5k
+train/parsed_face_video
+aud2face.csv
+data/
+checkpoints/
+dataprep/
+# *.pth
+*.log
+.gradio
