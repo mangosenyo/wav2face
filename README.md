@@ -71,6 +71,4 @@ python landmark_gradio.py
 ## Demo
 https://github.com/user-attachments/assets/022288f2-7e86-4eea-86ba-66d4011fe493
 
-
-
-direct audio tranlation allows for paralanguage events (sighs etc) to be captured
+allows for paralanguage events (sighs etc) to be captured
