@@ -74,20 +74,3 @@ https://github.com/user-attachments/assets/022288f2-7e86-4eea-86ba-66d4011fe493
 
 
 direct audio tranlation allows for paralanguage events (sighs etc) to be captured
-
-
-
-## License
-
-MIT License.
-Feel free to use, modify, and distribute with attribution.
-
-# wav2face
-Direct audio to facial blendhape generation without phoneme conversion. Temporal Convolutional Network (TCN) for predicting 3D facial landmarks from audio features (MFCC).
-
-
-
-## License
-
-MIT License.
-Feel free to use, modify, and distribute with attribution.
