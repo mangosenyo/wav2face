@@ -1,6 +1,6 @@
 
 # wav2face
-Direct audio to 3D facial landmark generation (no phoneme conversion) with a Temporal Convolutional Network (TCN).
+Direct audio to 3D facial landmark generation (no phoneme conversion) with a CNN.
 
 ---
 
